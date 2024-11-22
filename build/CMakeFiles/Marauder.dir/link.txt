@@ -1,0 +1,1 @@
+x86_64-w64-mingw32-g++ -static-libgcc -static-libstdc++ CMakeFiles/Marauder.dir/src/main.cpp.o -o Marauder  -lkernel32 -luser32 -lgdi32 -lws2_32

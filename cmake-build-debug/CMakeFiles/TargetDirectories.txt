@@ -1,3 +1,4 @@
-/home/ousu/Desktop/Murder/Marauder/cmake-build-debug/CMakeFiles/Marauder.dir
-/home/ousu/Desktop/Murder/Marauder/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/ousu/Desktop/Murder/Marauder/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ousu/Desktop/Murder/Marauder/BackDoor-Client/cmake-build-debug/CMakeFiles/Marauder.dir
+/home/ousu/Desktop/Murder/Marauder/BackDoor-Client/cmake-build-debug/CMakeFiles/server.dir
+/home/ousu/Desktop/Murder/Marauder/BackDoor-Client/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ousu/Desktop/Murder/Marauder/BackDoor-Client/cmake-build-debug/CMakeFiles/rebuild_cache.dir
